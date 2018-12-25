@@ -1,0 +1,40 @@
+@media only screen and (max-width: 760px) {
+  #hs-header-m {
+    height: 1px;
+  }
+  #hs-content {
+    top: 1px;
+  }
+  #hs-content-m {
+    height: 100%;
+    width: 100%;
+    display: table;
+    background: none 0 0 #0f243e;
+  }
+  #hs-content-m > div {
+    display: table-cell;
+    vertical-align: middle;
+  }
+  #hs-area-left, #hs-area-right {
+    width: 60px;
+  }
+  #hs-area-center {
+    text-align: center;
+    padding: 0 10px;
+  }
+  #hs-title-m {
+    font-family: Tahoma,Verdana,Arial,sans-serif;
+    font-size: 16pt;
+    color: White;
+    background-color: transparent;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+  }
+  #hs-header-m #hs-menu {
+    display: none;
+  }
+  #hs-header-m #hs-menu span {
+    background-color: White;
+  }
+}

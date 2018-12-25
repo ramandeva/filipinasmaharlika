@@ -1,0 +1,86 @@
+p {
+  margin: 0;
+  padding-top: 0;
+  padding-right: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  text-indent: 0;
+  text-align: left;
+  line-height: normal;
+  font-family: 'Times New Roman';
+  font-size: 12pt;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+map > area {
+  outline: none;
+}
+table.align-c {
+  margin: 0 auto;
+}
+table.align-r {
+  margin: 0 0 0 auto;
+}
+img {
+  border: none;
+}
+.float-pos-l {
+  float: left;
+}
+.float-pos-r {
+  float: right;
+}
+.ts0 {
+  font-family: 'Trebuchet MS';
+}
+.ts1 {
+  font-family: 'Berlin Sans FB';
+  color: #602826;
+}
+.ts2 {
+  font-family: Tahoma;
+  color: Gray;
+  background-color: White;
+}
+.hs0 {
+  font-family: 'Berlin Sans FB';
+  text-decoration: underline;
+  color: #602826;
+}
+a.hs0:hover {
+  font-family: Verdana;
+  text-decoration: none;
+  color: #191919;
+  background-color: #ffc000;
+}
+.hs1 {
+  font-family: Tahoma;
+  text-decoration: underline;
+  color: Gray;
+  background-color: White;
+}
+.ps0 {
+  text-align: center;
+  font-size: 8pt;
+}
+.ps1 {
+  text-align: center;
+}
+.ps2 {
+  text-align: center;
+  font-size: 10pt;
+}
+.hline0 {
+  width: 100%;
+  height: 1px;
+  margin: 8px auto;
+  background-color: Silver;
+  border-style: none;
+}
+.hs-mobile img.hs-fullwidth-m {
+  width: 100%;
+  height: auto;
+  float: none;
+}
